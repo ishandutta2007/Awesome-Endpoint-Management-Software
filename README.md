@@ -52,9 +52,9 @@ Whether you are an IT Administrator, Systems Engineer, MSP (Managed Service Prov
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-*Sorted by GitHub Star Count (Descending)*
+*Sorted by GitHub Stars_Count (Descending)*
 
-| Repository 📦 | Description 📜 | GitHub Stars ⭐ |
+| Repository 📦 | Description 📜 | GitHub_Stars ⭐ |
 |:---|:---|:---:|
 | **[RustDesk](https://github.com/rustdesk/rustdesk)** | Full-featured open-source remote desktop and endpoint support client written in Rust. Alternative to TeamViewer and AnyDesk with self-hosted relay servers. | [![Stars](https://img.shields.io/github/stars/rustdesk/rustdesk?style=social&color=white)](https://github.com/rustdesk/rustdesk/stargazers) |
 | **[Osquery](https://github.com/osquery/osquery)** | SQL-powered operating system instrumentation, telemetry, and endpoint inventory framework for OS health and security compliance. | [![Stars](https://img.shields.io/github/stars/osquery/osquery?style=social&color=white)](https://github.com/osquery/osquery/stargazers) |
@@ -77,7 +77,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. **Fork** the repository.
 2. Add your suggested endpoint management platform or open-source repo to `README.md`.
-3. Ensure pricing, free tier limits, star badges, and links follow the exact tabular format above.
+3. Ensure pricing, free tier limits, Stars_Badges, and links follow the exact tabular format above.
 4. Submit a **Pull Request** with a brief summary of the software.
 
 Thank you to all contributors keeping this ecosystem open and transparent!
@@ -112,3 +112,12 @@ If you found this list helpful for your IT infrastructure planning or engineerin
 <p align="center">
   <b>Curated with ❤️ for System Administrators, Operations Engineers, & IT Leaders worldwide.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Endpoint-Management-Software&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Endpoint-Management-Software_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Endpoint-Management-Software_growth.svg">
+  </picture>
+</a>
